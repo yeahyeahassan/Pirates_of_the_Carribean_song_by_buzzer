@@ -25,3 +25,5 @@ This file contains the code to play the "Pirates of the Caribbean" Theme Song on
 3. `noTone` is used to handle malperformance of some Arduinos 
 
 4. Better coding style, format, variable names... 
+
+![Thank You](https://img.shields.io/badge/Thank%20You!-blue?style=flat-square&logo=smile)
