@@ -16,6 +16,7 @@ This file contains the code to play the "Pirates of the Caribbean" Theme Song on
 
 ---
 
+![Schematic](https://github.com/user-attachments/assets/93b61084-6943-4001-a0f2-e895f76a8ba0)
 
 
 1. You can remove the paper seal on the buzzer to make it sound better .
